@@ -1,0 +1,6 @@
+{
+  "name": "Naini Crumbs",
+  "description": "An interactive, elegant showcase for Nainital's premium handmade cookie shop, featuring local delivery, seasonal flavor rotations, immersive physics, a custom cart, and a seamless checkout experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
